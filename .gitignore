@@ -1,0 +1,21 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+logs/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+server/.env
+server/.env.*
+!server/.env.example
+
+# Runtime uploads and temporary directories
+server/uploads/*
+!server/uploads/.gitkeep
+server/temp/
+temp/

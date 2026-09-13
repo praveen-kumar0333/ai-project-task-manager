@@ -1,0 +1,6 @@
+{
+  "name": "AI Project & Task Manager",
+  "description": "A modern developer productivity dashboard and AI-powered project and task management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
